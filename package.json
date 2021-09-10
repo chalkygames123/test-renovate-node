@@ -1,9 +1,9 @@
 {
   "private": true,
   "engines": {
-    "node": "16.0.0"
+    "node": "16.9.1"
   },
   "volta": {
-    "node": "16.0.0"
+    "node": "16.9.1"
   }
 }
